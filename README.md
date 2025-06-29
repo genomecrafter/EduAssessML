@@ -100,7 +100,7 @@ Deployment is on Render and Netlify.
 
 ## Contributions
 
-- **Nikita S Raj Kapini** : Building the backend for question generation, data storage with MongoDB, and response analysis; Integration of frontend with backend; Adding navbar component to UI; Added change password feature;Confirmation messages using toast notifications; Minor UI/UX fixes
+- **Nikita S Raj Kapini** (Team Lead) : Building the backend for question generation, data storage with MongoDB, and response analysis; Integration of frontend with backend; Adding navbar component to UI; Added change password feature;Confirmation messages using toast notifications; Minor UI/UX fixes
 
 - **Shreyas Mene** : Developing the frontend user interface using Vite + React and concpt graph creation
 
@@ -116,6 +116,7 @@ Deployment is on Render and Netlify.
 ## Documentation
 
 * UML diagrams for the system architecture and flow are available in the `Documentation/` folder.
+* Design documentation, SRS, testing documentation and User manual are available in `Documentation/Final/` folder.
 
 ---
 ## Acknowledgements
