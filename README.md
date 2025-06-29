@@ -1,6 +1,12 @@
 # EduAssess: ML Prerequisite Assessment Platform
 (Recommendation System for Education - Dependency-Aware Assessment Generator)
 
+**Note**: This project was developed as part of a **6-week research internship** at **IIT Ropar**, under the guidance of **Prof. Sudarshan Iyengar**.
+
+> You can find the original multi-team collaborative repository on the Recommendation System for Education [**here**](https://github.com/continuousactivelearning/cps.git).
+
+---
+
 **EduAssess** is a smart web-based tool designed to help learners assess their knowledge of prerequisites(identified using concept graph) before diving into a **Machine Learning (ML)** topic. It generates targeted quizzes based on selected topics, evaluates user performance, and suggests areas to revisit.
 
 > [Live Demo](https://cpseduassess.netlify.app/)
